@@ -13,7 +13,7 @@
 
 **2. Telegram API Key
 
-```(path:*.xml OR path:*.json OR path:*.properties OR path:*.sql OR path:*.txt OR path:*.log OR path:*.tmp OR path:*.py OR path:*.backup OR path:*.bak OR path:*.enc OR path:*.yml OR path:*.yaml OR path:*.toml OR path:*.ini OR path:*.config OR path:*.conf OR path:*.cfg OR path:*.env OR path:*.envrc OR path:*.prod OR path:*.secret OR path:*.private OR path:*.key) AND (TELEBOT_KEY OR TELEGRAM_BOT_KEY OR TELEGRAM_TOKEN OR TELEGRAM_API_KEY OR telegram_bot_token OR telegram_secret OR телебот_токен OR bot_token OR telebot_key)```
+```/telebot_token=\d+/ OR /TELEBOT_TOKEN=\d+/ OR /telegram_bot_token=\d+/ OR TELEGRAM_BOT_TOKEN=\d+ OR /telegram_token=\d+/ OR /TELEGRAM_TOKEN=\d+/ OR /telegram_api_key=\d+/ OR /TELEGRAM_API_KEY=\d+/ OR /telegram_secret=\d+/ OR /TELEGRAM_SECRET=\d+/ OR telebot_key=\d+ OR TELEBOT_KEY=\d+ OR телебот_токен=\d+ OR bot_token=\d+```
 
 **3. Github OAuth/App/Personal/Refresh Access Token**
 
