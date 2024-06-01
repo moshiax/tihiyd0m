@@ -32,6 +32,8 @@
 ```(path:*.xml OR path:*.json OR path:*.properties OR path:*.sql OR path:*.txt OR path:*.log OR path:*.tmp OR path:*.backup OR path:*.bak OR path:*.enc OR path:*.yml OR path:*.yaml OR path:*.toml OR path:*.ini OR path:*.config OR path:*.conf OR path:*.cfg OR path:*.env OR path:*.envrc OR path:*.prod OR path:*.secret OR path:*.private OR path:*.key) AND (access_key OR secret_key OR access_token OR api_key OR apikey OR api_secret OR apiSecret OR app_secret OR application_key OR app_key OR appkey OR auth_token OR authsecret) AND (xox AND Slack)```
 
 **8. Camera in Google**
+| **Запрос 1** | **Запрос 2** | **Запрос 3** | **Запрос 4** | **Запрос 5** | **Запрос 6** | **Запрос 7** | **Запрос 8** |
+|--------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
 | inurl:”ViewerFrame?Mode=” | intitle:Axis 2400 video server | inurl:/view.shtml | intitle:”Live View / – AXIS” | inurl:ViewerFrame?Mode=Refresh | inurl:axis-cgi/jpg | inurl:axis-cgi/mjpg (motion-JPEG) | inurl:view/indexFrame.shtml |
 | inurl:view/index.shtml | intitle:”live view” intitle:axis | intitle:liveapplet | allintitle:”Network Camera NetworkCamera” | intitle:axis intitle:”video server” | inurl:LvAppl | intitle:”EvoCam” inurl:”webcam.html” | intitle:”Live NetSnap Cam-Server feed” |
 | intitle:”Live View / – AXIS 206M” | intitle:”Live View / – AXIS 206W” | intitle:”Live View / – AXIS 210” | inurl:indexFrame.shtml "Axis Video Server" | inurl:”MultiCameraFrame?Mode=Motion” | intitle:start inurl:cgistart | intitle:”WJ-NT104 Main Page” | intext:”MOBOTIX M1” intext:”Open Menu” |
@@ -43,6 +45,7 @@
 | inurl:main/flashLogin.html | inurl:next_file=main_fs.htm | inurl:/login.ml | "Webthru User Login" | "Please enter username and password to log in to system" | inurl:Ctl/index.htm?Cus | Configuration "Pop-up Live Image" | inurl:Remote/index.php3 |
 | intitle:Live Video | netw_tcp.shtml | "indexFrame.shtml?newstyle=Quad" | "/showcam.php?camid" | "live view" | intitle:"i-Catcher Console - Web Monitor" | "V.Networks [Motion Picture(Java" | inurl:/app/idxas.html |
 | inurl:CgiStart?page=Single&Mode=Motion&Language=0 | | | | | | | |
+
 
 ## Parameters Used
 
