@@ -46,6 +46,18 @@
 | intitle:Live Video | netw_tcp.shtml | "indexFrame.shtml?newstyle=Quad" | "/showcam.php?camid" | "live view" | intitle:"i-Catcher Console - Web Monitor" | "V.Networks [Motion Picture(Java" | inurl:/app/idxas.html |
 | inurl:CgiStart?page=Single&Mode=Motion&Language=0 | | | | | | | |
 
+9. Google videos
+ ```(intitle:"index of" (avi | mkv | mov | wmv | flv | mpeg | 3gp | webm | mp4))```
+   Google Text
+ ```(intitle:"index of" (txt | doc | docx | pdf | odt | rtf | tex))```
+   Google Photos
+```(intitle:"index of" (jpg | jpeg | png | gif | bmp | svg | tiff | webp))```
+   Google audio 
+```(intitle:"index of" (mp3 | wav | wma | ogg | flac | aac | m4a))```
+  Google Torrents
+```(intitle:"index of" (torrent))```
+  Google Scripts
+```(intitle:"index of" (py | js | sh | php | rb | pl | java | cs))```
 
 ## Parameters Used
 
