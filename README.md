@@ -50,11 +50,11 @@
 | Google            | Запрос                                                                                           |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | Google Videos     | `intitle:Index of (mp4 OR avi OR mkv OR mov OR wmv OR flv OR mpg OR mpeg OR 3gp OR webm)`        |
-| Google Photos     | `intitle:Index of (jpg OR jpeg OR png OR gif OR bmp OR svg OR tiff OR webp))`                    |
-| Google Audio      | `intitle:"Index of (mp3 OR wav OR wma OR ogg OR flac OR aac OR m4a))`                            |
-| Google Text       | `intitle:"Index of (txt OR doc OR docx OR pdf OR odt OR rtf OR tex))`                            |
-| Google Torrents   | `intitle:"Index of (torrent))`                                                                   |
-| Google Scripts    | `intitle:"Index of (py OR js OR sh OR php OR rb OR pl OR java OR cs))`                           |
+| Google Photos     | `intitle:Index of (jpg OR jpeg OR png OR gif OR bmp OR svg OR tiff OR webp)`                    |
+| Google Audio      | `intitle:"Index of (mp3 OR wav OR wma OR ogg OR flac OR aac OR m4a)`                            |
+| Google Text       | `intitle:"Index of (txt OR doc OR docx OR pdf OR odt OR rtf OR tex)`                            |
+| Google Torrents   | `intitle:"Index of (torrent)`                                                                   |
+| Google Scripts    | `intitle:"Index of (py OR js OR sh OR php OR rb OR pl OR java OR cs)`                           |
 
 ## Parameters Used
 
